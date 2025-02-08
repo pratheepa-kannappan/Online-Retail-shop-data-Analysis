@@ -27,4 +27,14 @@ Using Power BI I have Created a report of a retail shop.from this I got the Insi
 ## A picture for Referance:
 ![WhatsApp Image 2025-02-08 at 16 48 24_c67a7c52](https://github.com/user-attachments/assets/04f8f111-d706-4251-b1dd-b854fa72f085)
 
+## Requirment
+you should Download Microsoft Power BI
+- Link- Microsoft Power BI[https://www.microsoft.com/en-us/download/details.aspx?id=58494]
+- Click Download.
+- Click the ☑ PBIDesktopSetup_X64.exe
+- Successfully Power PI Desktop Installed.
+- Load the Excel sheet from the data which is above given.
+  
+
+
 
